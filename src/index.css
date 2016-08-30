@@ -1,0 +1,36 @@
+body {
+  margin: 0;
+  padding: 50px;
+  font-family: sans-serif;
+}
+.react-count-down {
+    margin: 0;
+    padding-top: 4em;
+}
+
+.prefix {
+  font-size: 150%;
+  font-weight: 200;
+  line-height: 1.5;
+  color: #03CC85;
+}
+
+.react-count-down .date {
+  font-size: 150%;
+  font-weight: 200;
+  line-height: 1.5;
+  color: #666;
+}
+
+.logo--small {
+  width: 290px;
+  height: 58px;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  background-image: url("https://assets.aftership.com/img/logo-aftership.svg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  padding: 10px;
+	box-sizing: border-box;
+}
