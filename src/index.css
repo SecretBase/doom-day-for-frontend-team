@@ -1,6 +1,6 @@
 body {
   margin: 0;
-  padding: 50px;
+  padding: 120px 50px;
   font-family: sans-serif;
 }
 .react-count-down {
@@ -9,17 +9,17 @@ body {
 }
 
 .prefix {
-  font-size: 150%;
+	font-size: 32px;
   font-weight: 200;
   line-height: 1.5;
-  color: #03CC85;
+  color: #f39f1b;
 }
 
 .react-count-down .date {
-  font-size: 150%;
+  font-size: 48px;
   font-weight: 200;
   line-height: 1.5;
-  color: #666;
+  color: #414042;
 }
 
 .logo--small {

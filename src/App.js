@@ -10,7 +10,7 @@ class App extends Component {
       <div className="App">
 			<div className="logo--small"></div>
         <Countdown options={OPTIONS} />
-		  <p className="prefix">until new secure.aftership.com is launch.</p>
+		  <p className="prefix">until new secure.aftership.com is launched.</p>
       </div>
     );
   }
